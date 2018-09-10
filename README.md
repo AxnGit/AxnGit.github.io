@@ -3,8 +3,6 @@
 ## My CSDN:
 <a href="https://blog.csdn.net/qq_36802111">Axn_很优秀</a
 <img src="p1.png">
-  
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8" />
@@ -118,8 +116,9 @@
 <script src="js/new_file.js" type="text/javascript" charset="utf-8"></script>
 
 <div style="text-align:center;margin:50px 0; font:normal 14px/24px 'MicroSoft YaHei';">
-<p>你我来自湖北四川广西宁夏河南山东贵州云南的小镇乡村
-曾经发誓 要做了不起的人</p>
+	
+<h3><p>你我来自湖北四川广西宁夏河南山东贵州云南的小镇乡村
+曾经发誓 要做了不起的人</p><h3>
 </div>
 </body>
 </html>
