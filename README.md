@@ -1,8 +1,6 @@
 ## 你好，我是宋彬楠 
 
-<!--## My CSDN:
-<a href="https://blog.csdn.net/qq_36802111">Axn_很优秀</a>
-<img src="p1.png">-->
+
 <html>
 <head>
 <meta charset="utf-8" />
