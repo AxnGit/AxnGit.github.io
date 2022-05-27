@@ -102,9 +102,6 @@
 			</div>
 		</div>
 	</div>
-	<div class="ljxq22">
-		<a href="###"><img class="lazy" src="img/ljxq2222.jpg" /></a>
-	</div>
 </div>
 </div>
 
